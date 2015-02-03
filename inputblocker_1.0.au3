@@ -1,5 +1,5 @@
 #cs
-InputBlocker 1.0 napísaná v AutoIt 3
+InputBlocker 1.0 napísaný v AutoIt 3
 Autor: Tibor Repček
 Web: http://tiborepcek.com/input-blocker/
 #ce
